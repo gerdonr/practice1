@@ -9,5 +9,5 @@ My name is Rebecca Gerdon. My background is in **fitness** and teaching *group f
 3) Images
 4) References
 
-image ![Curious Fox](https://www.google.com/url?sa=i&url=https%3A%2F%2Fclearcreekcounty.org%2Ffox%2F&psig=AOvVaw3c_dwfLLlfSGlcJF7LRFwi&ust=1599788320770000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIizg5C73esCFQAAAAAdAAAAABAJ)
+image ![Curious Fox](https://clearcreekcounty.org/fox/)
 link [FDL](https://flexibledietinglifestyle.com/)
