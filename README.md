@@ -11,3 +11,5 @@ My name is Rebecca Gerdon. My background is in **fitness** and teaching *group f
 
 image ![Curious Fox](https://clearcreekcounty.org/fox/)
 link [FDL](https://flexibledietinglifestyle.com/)
+
+>" You miss 100% of the shots you don't take "
