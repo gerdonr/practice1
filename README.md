@@ -1,7 +1,7 @@
 # practice1
-##fintech assigment practice 1
+## Fintech Assigment Practice 1
 
-My name is Rebecca Gerdon. My background is in fitness and teaching group fitness. I am in this bootcamp to learn more and to get into a new and exciting FinTech career. 
+My name is Rebecca Gerdon. My background is in **fitness** and teaching *group fitness*. I am in this bootcamp to learn more and to get into a new and exciting FinTech career. 
 
 ## Table of Contents
 1) Code
@@ -9,5 +9,5 @@ My name is Rebecca Gerdon. My background is in fitness and teaching group fitnes
 3) Images
 4) References
 
-image ![Curious Fox](https://images.app.goo.gl/EhBwBR7jwWeTrBk57)
+image ![Curious Fox](https://www.google.com/url?sa=i&url=https%3A%2F%2Fclearcreekcounty.org%2Ffox%2F&psig=AOvVaw3c_dwfLLlfSGlcJF7LRFwi&ust=1599788320770000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIizg5C73esCFQAAAAAdAAAAABAJ)
 link [FDL](https://flexibledietinglifestyle.com/)
